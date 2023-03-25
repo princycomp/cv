@@ -1,0 +1,29 @@
+body{
+  background-color: powderblue;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF
+}
+
+img{
+  width:  100px;
+  height: 100px;
+}
+
+.norm{
+  width: 20px;
+  height: 20px;
+}
